@@ -1,6 +1,7 @@
 # LocalFit
 
-<p align="center">
+<h3 align = "center">Nossa Equipe</h3>
+<p align = "center">
   <a href="https://github.com/AdrielFernando">Adriel Fernando</a>
    • 
   <a href="https://github.com/Ioshua-N">Ioshua Noia</a>
